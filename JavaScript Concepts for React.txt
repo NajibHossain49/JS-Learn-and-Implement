@@ -1,0 +1,50 @@
+React ভালোভাবে বুঝতে এবং কাজে লাগাতে চাইলে নিচের JavaScript বিষয়গুলো ভালো করে শিখে নেয়া উচিত:
+
+1. ES6+ Features: 
+   - Arrow Functions
+   - Destructuring
+   - Spread and Rest Operators
+   - Template Literals
+   - Classes and Modules
+   - Promises and async/await
+
+2. JavaScript Functions:
+   - Higher-Order Functions
+   - Callbacks
+   - Closures
+   - IIFE (Immediately Invoked Function Expressions)
+
+3. JavaScript Arrays and Objects:
+   - Array Methods (map, filter, reduce, forEach, etc.)
+   - Object Manipulation (Object.keys, Object.values, etc.)
+   - Working with JSON
+
+4. DOM Manipulation:
+   - Understanding the Document Object Model (DOM)
+   - Event Handling (addEventListener, event delegation)
+
+5. Asynchronous JavaScript:
+   - Fetch API
+   - Understanding how asynchronous code works
+   - Handling Promises and async/await
+
+6. JavaScript Modules:
+   - Import/Export Syntax
+   - Understanding how modules work in JavaScript
+
+7. Understanding 'this' keyword:
+   - How `this` works in different contexts (global, object method, function, arrow function)
+
+8. Error Handling:
+   - Try, catch, finally
+   - Error propagation and custom errors
+
+9. JavaScript Classes:
+   - Understanding OOP (Object-Oriented Programming) basics
+   - Class inheritance and constructors
+
+10. JavaScript Event Loop:
+    - Understanding how JavaScript's event loop works
+    - Microtasks and Macrotasks
+
+এই বিষয়গুলো ভালোভাবে শিখলে React এবং তার সাথে সম্পর্কিত concepts যেমন JSX, state management, lifecycle methods, এবং hooks এগুলো শেখা অনেক সহজ হয়ে যাবে।
